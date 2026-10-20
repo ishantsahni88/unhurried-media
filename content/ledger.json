@@ -1,435 +1,470 @@
 {
- "brand": "Unhurried",
- "handle": "@unhurried_daily",
- "metricoolBrandId": "7195689",
- "timezone": "America/Toronto",
- "posters": [
-  {
-   "date": "2026-10-14",
-   "quote": "You are not late. You are on your own time.",
-   "source": "manual first post"
-  },
-  {
-   "date": "2026-10-15",
-   "quote": "Rest is not a reward. It's a requirement.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-16",
-   "quote": "Slow down. You'll see more.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-17",
-   "quote": "Not everything needs an answer today.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-18",
-   "quote": "Breathe first. Decide later.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-19",
-   "quote": "The pause is part of the music.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-20",
-   "quote": "You can do less and still be enough.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-21",
-   "quote": "Peace is not found. It's practiced.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-22",
-   "quote": "Let this moment be enough.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-23",
-   "quote": "Some days, getting through is the win.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-24",
-   "quote": "Soft is not the same as weak.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-25",
-   "quote": "Your worth is not measured in hours.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-26",
-   "quote": "Unclench your jaw. Drop your shoulders. Breathe.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-27",
-   "quote": "You don't have to carry it all at once.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-28",
-   "quote": "Quiet mornings make loud days easier.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-29",
-   "quote": "Be where your feet are.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-30",
-   "quote": "Growth is quiet. Trust it anyway.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-10-31",
-   "quote": "Today, choose the slower road.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-01",
-   "quote": "There is time. There has always been time.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-02",
-   "quote": "Say no gently. Say yes slowly.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-03",
-   "quote": "What you water grows. Water calm.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-04",
-   "quote": "Stillness is a skill. Practice it daily.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-05",
-   "quote": "The rush was never yours to keep.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-06",
-   "quote": "Close the tabs. Open the window.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-07",
-   "quote": "A calm mind sees further.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-08",
-   "quote": "You are allowed to begin again, slowly.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-09",
-   "quote": "Less hurry. More here.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-10",
-   "quote": "Not every feeling needs fixing. Some just need room.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-11",
-   "quote": "Let the day be gentle with you.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-12",
-   "quote": "Rest without guilt.",
-   "source": "batch-2026-10-14 (Canva)"
-  },
-  {
-   "date": "2026-11-13",
-   "quote": "Unhurried is not a speed. It's a way of living.",
-   "source": "batch-2026-10-14 (Canva)"
-  }
- ],
- "reels": [
-  {
-   "date": "2026-10-15",
-   "props": {
-    "s1": "You are not late.",
-    "s2": "You are on your own time.",
-    "s3a": "Slow down.",
-    "s3b": "You'll see more.",
-    "s4": [
-     "Unclench your jaw.",
-     "Drop your shoulders.",
-     "Breathe."
-    ],
-    "s5a": "Less hurry.",
-    "s5b": "More here."
-   },
-   "file": "reels/unhurried-reel-01.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-10-17",
-   "props": {
-    "s1": "No answer yet.",
-    "s2": "And that's okay today.",
-    "s3a": "Let it wait.",
-    "s3b": "Clarity takes time.",
-    "s4": [
-     "Set the question down.",
-     "Feel your feet.",
-     "Breathe."
-    ],
-    "s5a": "Figure it all out.",
-    "s5b": "Just this."
-   },
-   "file": "reels/unhurried-reel-02.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-10-19",
-   "props": {
-    "s1": "Pause.",
-    "s2": "It's part of the music.",
-    "s3a": "Rest the note.",
-    "s3b": "Let it ring.",
-    "s4": [
-     "Stop for one breath.",
-     "Notice the quiet.",
-     "Listen."
-    ],
-    "s5a": "Keep going.",
-    "s5b": "Pause here."
-   },
-   "file": "reels/unhurried-reel-03.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-10-21",
-   "props": {
-    "s1": "Peace is a practice.",
-    "s2": "Not a place you arrive.",
-    "s3a": "One breath.",
-    "s3b": "Then another.",
-    "s4": [
-     "Phone face down.",
-     "Shoulders soft.",
-     "Practice."
-    ],
-    "s5a": "Find peace.",
-    "s5b": "Make peace."
-   },
-   "file": "reels/unhurried-reel-04.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-10-23",
-   "props": {
-    "s1": "You got through.",
-    "s2": "Some days that's the win.",
-    "s3a": "Heavy day?",
-    "s3b": "You still showed up.",
-    "s4": [
-     "Drink some water.",
-     "Go to bed early.",
-     "Rest."
-    ],
-    "s5a": "Do it all.",
-    "s5b": "Do enough."
-   },
-   "file": "reels/unhurried-reel-05.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-10-25",
-   "props": {
-    "s1": "You are enough.",
-    "s2": "Even on slow days.",
-    "s3a": "Busy isn't worth.",
-    "s3b": "Rest isn't failure.",
-    "s4": [
-     "Log off on time.",
-     "Eat slowly.",
-     "Enough."
-    ],
-    "s5a": "Prove it.",
-    "s5b": "Just be."
-   },
-   "file": "reels/unhurried-reel-06.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-10-27",
-   "props": {
-    "s1": "Set it down.",
-    "s2": "Just for a moment.",
-    "s3a": "One thing at a time.",
-    "s3b": "The rest can wait.",
-    "s4": [
-     "Loosen your grip.",
-     "Open your hands.",
-     "Exhale."
-    ],
-    "s5a": "Carry it all.",
-    "s5b": "Carry one."
-   },
-   "file": "reels/unhurried-reel-07.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-10-29",
-   "props": {
-    "s1": "Right here.",
-    "s2": "Is where your life is.",
-    "s3a": "Look up.",
-    "s3b": "Notice one thing.",
-    "s4": [
-     "Feel the floor.",
-     "Hear the room.",
-     "Arrive."
-    ],
-    "s5a": "Somewhere else.",
-    "s5b": "Here."
-   },
-   "file": "reels/unhurried-reel-08.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-10-31",
-   "props": {
-    "s1": "Take your time.",
-    "s2": "Choose the slower road.",
-    "s3a": "Walk, don't rush.",
-    "s3b": "Listen, don't reply.",
-    "s4": [
-     "Leave a little early.",
-     "Take the long way.",
-     "Wander."
-    ],
-    "s5a": "Faster.",
-    "s5b": "Slower."
-   },
-   "file": "reels/unhurried-reel-09.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-11-02",
-   "props": {
-    "s1": "No is a full sentence.",
-    "s2": "Say it gently.",
-    "s3a": "Guard your time.",
-    "s3b": "Kindly.",
-    "s4": [
-     "Decline one thing.",
-     "Protect one evening.",
-     "Rest."
-    ],
-    "s5a": "Yes to everything.",
-    "s5b": "Yes to you."
-   },
-   "file": "reels/unhurried-reel-10.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-11-04",
-   "props": {
-    "s1": "Be still.",
-    "s2": "Just for one minute.",
-    "s3a": "Sit.",
-    "s3b": "Notice.",
-    "s4": [
-     "Feet on the floor.",
-     "Hands in your lap.",
-     "Still."
-    ],
-    "s5a": "Fidget.",
-    "s5b": "Settle."
-   },
-   "file": "reels/unhurried-reel-11.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-11-06",
-   "props": {
-    "s1": "Close the tabs.",
-    "s2": "Open the window.",
-    "s3a": "Fewer screens.",
-    "s3b": "More sky.",
-    "s4": [
-     "Put the phone away.",
-     "Look outside.",
-     "Breathe."
-    ],
-    "s5a": "Scroll.",
-    "s5b": "Look up."
-   },
-   "file": "reels/unhurried-reel-12.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-11-08",
-   "props": {
-    "s1": "Begin again.",
-    "s2": "As slowly as you need.",
-    "s3a": "No sprint.",
-    "s3b": "Just one step.",
-    "s4": [
-     "Forgive yesterday.",
-     "Start small.",
-     "Begin."
-    ],
-    "s5a": "Start over fast.",
-    "s5b": "Begin gently."
-   },
-   "file": "reels/unhurried-reel-13.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-11-10",
-   "props": {
-    "s1": "Feel it.",
-    "s2": "No need to fix it yet.",
-    "s3a": "Make some room.",
-    "s3b": "Let it move.",
-    "s4": [
-     "Name the feeling.",
-     "Let it sit with you.",
-     "Allow."
-    ],
-    "s5a": "Fix it now.",
-    "s5b": "Let it be."
-   },
-   "file": "reels/unhurried-reel-14.mp4",
-   "source": "batch-2026-10-14"
-  },
-  {
-   "date": "2026-11-12",
-   "props": {
-    "s1": "Be gentle.",
-    "s2": "With the day, and with you.",
-    "s3a": "Soft voice.",
-    "s3b": "Kind thoughts.",
-    "s4": [
-     "Lower your shoulders.",
-     "Soften your gaze.",
-     "Rest."
-    ],
-    "s5a": "Push through.",
-    "s5b": "Be gentle."
-   },
-   "file": "reels/unhurried-reel-15.mp4",
-   "source": "batch-2026-10-14"
-  }
- ]
+  "brand": "Unhurried",
+  "handle": "@unhurried_daily",
+  "metricoolBrandId": "7195689",
+  "timezone": "America/Toronto",
+  "posters": [
+    {
+      "date": "2026-10-14",
+      "quote": "You are not late. You are on your own time.",
+      "source": "manual first post"
+    },
+    {
+      "date": "2026-10-15",
+      "quote": "Rest is not a reward. It's a requirement.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-16",
+      "quote": "Slow down. You'll see more.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-17",
+      "quote": "Not everything needs an answer today.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-18",
+      "quote": "Breathe first. Decide later.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-19",
+      "quote": "The pause is part of the music.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-20",
+      "quote": "You can do less and still be enough.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-21",
+      "quote": "Peace is not found. It's practiced.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-22",
+      "quote": "Let this moment be enough.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-23",
+      "quote": "Some days, getting through is the win.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-24",
+      "quote": "Soft is not the same as weak.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-25",
+      "quote": "Your worth is not measured in hours.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-26",
+      "quote": "Unclench your jaw. Drop your shoulders. Breathe.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-27",
+      "quote": "You don't have to carry it all at once.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-28",
+      "quote": "Quiet mornings make loud days easier.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-29",
+      "quote": "Be where your feet are.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-30",
+      "quote": "Growth is quiet. Trust it anyway.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-10-31",
+      "quote": "Today, choose the slower road.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-01",
+      "quote": "There is time. There has always been time.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-02",
+      "quote": "Say no gently. Say yes slowly.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-03",
+      "quote": "What you water grows. Water calm.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-04",
+      "quote": "Stillness is a skill. Practice it daily.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-05",
+      "quote": "The rush was never yours to keep.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-06",
+      "quote": "Close the tabs. Open the window.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-07",
+      "quote": "A calm mind sees further.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-08",
+      "quote": "You are allowed to begin again, slowly.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-09",
+      "quote": "Less hurry. More here.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-10",
+      "quote": "Not every feeling needs fixing. Some just need room.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-11",
+      "quote": "Let the day be gentle with you.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-12",
+      "quote": "Rest without guilt.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-13",
+      "quote": "Unhurried is not a speed. It's a way of living.",
+      "source": "batch-2026-10-14 (Canva)"
+    },
+    {
+      "date": "2026-11-14",
+      "quote": "Good things are still finding their way to you.",
+      "source": "ig-small-business-automation-theme-page week 2026-11-14"
+    },
+    {
+      "date": "2026-11-15",
+      "quote": "You are doing better than you think.",
+      "source": "ig-small-business-automation-theme-page week 2026-11-14"
+    },
+    {
+      "date": "2026-11-16",
+      "quote": "Today has room for something good.",
+      "source": "ig-small-business-automation-theme-page week 2026-11-14"
+    },
+    {
+      "date": "2026-11-17",
+      "quote": "Your calm is worth protecting.",
+      "source": "ig-small-business-automation-theme-page week 2026-11-14"
+    },
+    {
+      "date": "2026-11-18",
+      "quote": "Small steps still move you forward.",
+      "source": "ig-small-business-automation-theme-page week 2026-11-14"
+    },
+    {
+      "date": "2026-11-19",
+      "quote": "There is light in ordinary moments.",
+      "source": "ig-small-business-automation-theme-page week 2026-11-14"
+    },
+    {
+      "date": "2026-11-20",
+      "quote": "You are allowed to feel hopeful again.",
+      "source": "ig-small-business-automation-theme-page week 2026-11-14"
+    }
+  ],
+  "reels": [
+    {
+      "date": "2026-10-15",
+      "props": {
+        "s1": "You are not late.",
+        "s2": "You are on your own time.",
+        "s3a": "Slow down.",
+        "s3b": "You'll see more.",
+        "s4": [
+          "Unclench your jaw.",
+          "Drop your shoulders.",
+          "Breathe."
+        ],
+        "s5a": "Less hurry.",
+        "s5b": "More here."
+      },
+      "file": "reels/unhurried-reel-01.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-10-17",
+      "props": {
+        "s1": "No answer yet.",
+        "s2": "And that's okay today.",
+        "s3a": "Let it wait.",
+        "s3b": "Clarity takes time.",
+        "s4": [
+          "Set the question down.",
+          "Feel your feet.",
+          "Breathe."
+        ],
+        "s5a": "Figure it all out.",
+        "s5b": "Just this."
+      },
+      "file": "reels/unhurried-reel-02.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-10-19",
+      "props": {
+        "s1": "Pause.",
+        "s2": "It's part of the music.",
+        "s3a": "Rest the note.",
+        "s3b": "Let it ring.",
+        "s4": [
+          "Stop for one breath.",
+          "Notice the quiet.",
+          "Listen."
+        ],
+        "s5a": "Keep going.",
+        "s5b": "Pause here."
+      },
+      "file": "reels/unhurried-reel-03.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-10-21",
+      "props": {
+        "s1": "Peace is a practice.",
+        "s2": "Not a place you arrive.",
+        "s3a": "One breath.",
+        "s3b": "Then another.",
+        "s4": [
+          "Phone face down.",
+          "Shoulders soft.",
+          "Practice."
+        ],
+        "s5a": "Find peace.",
+        "s5b": "Make peace."
+      },
+      "file": "reels/unhurried-reel-04.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-10-23",
+      "props": {
+        "s1": "You got through.",
+        "s2": "Some days that's the win.",
+        "s3a": "Heavy day?",
+        "s3b": "You still showed up.",
+        "s4": [
+          "Drink some water.",
+          "Go to bed early.",
+          "Rest."
+        ],
+        "s5a": "Do it all.",
+        "s5b": "Do enough."
+      },
+      "file": "reels/unhurried-reel-05.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-10-25",
+      "props": {
+        "s1": "You are enough.",
+        "s2": "Even on slow days.",
+        "s3a": "Busy isn't worth.",
+        "s3b": "Rest isn't failure.",
+        "s4": [
+          "Log off on time.",
+          "Eat slowly.",
+          "Enough."
+        ],
+        "s5a": "Prove it.",
+        "s5b": "Just be."
+      },
+      "file": "reels/unhurried-reel-06.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-10-27",
+      "props": {
+        "s1": "Set it down.",
+        "s2": "Just for a moment.",
+        "s3a": "One thing at a time.",
+        "s3b": "The rest can wait.",
+        "s4": [
+          "Loosen your grip.",
+          "Open your hands.",
+          "Exhale."
+        ],
+        "s5a": "Carry it all.",
+        "s5b": "Carry one."
+      },
+      "file": "reels/unhurried-reel-07.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-10-29",
+      "props": {
+        "s1": "Right here.",
+        "s2": "Is where your life is.",
+        "s3a": "Look up.",
+        "s3b": "Notice one thing.",
+        "s4": [
+          "Feel the floor.",
+          "Hear the room.",
+          "Arrive."
+        ],
+        "s5a": "Somewhere else.",
+        "s5b": "Here."
+      },
+      "file": "reels/unhurried-reel-08.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-10-31",
+      "props": {
+        "s1": "Take your time.",
+        "s2": "Choose the slower road.",
+        "s3a": "Walk, don't rush.",
+        "s3b": "Listen, don't reply.",
+        "s4": [
+          "Leave a little early.",
+          "Take the long way.",
+          "Wander."
+        ],
+        "s5a": "Faster.",
+        "s5b": "Slower."
+      },
+      "file": "reels/unhurried-reel-09.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-11-02",
+      "props": {
+        "s1": "No is a full sentence.",
+        "s2": "Say it gently.",
+        "s3a": "Guard your time.",
+        "s3b": "Kindly.",
+        "s4": [
+          "Decline one thing.",
+          "Protect one evening.",
+          "Rest."
+        ],
+        "s5a": "Yes to everything.",
+        "s5b": "Yes to you."
+      },
+      "file": "reels/unhurried-reel-10.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-11-04",
+      "props": {
+        "s1": "Be still.",
+        "s2": "Just for one minute.",
+        "s3a": "Sit.",
+        "s3b": "Notice.",
+        "s4": [
+          "Feet on the floor.",
+          "Hands in your lap.",
+          "Still."
+        ],
+        "s5a": "Fidget.",
+        "s5b": "Settle."
+      },
+      "file": "reels/unhurried-reel-11.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-11-06",
+      "props": {
+        "s1": "Close the tabs.",
+        "s2": "Open the window.",
+        "s3a": "Fewer screens.",
+        "s3b": "More sky.",
+        "s4": [
+          "Put the phone away.",
+          "Look outside.",
+          "Breathe."
+        ],
+        "s5a": "Scroll.",
+        "s5b": "Look up."
+      },
+      "file": "reels/unhurried-reel-12.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-11-08",
+      "props": {
+        "s1": "Begin again.",
+        "s2": "As slowly as you need.",
+        "s3a": "No sprint.",
+        "s3b": "Just one step.",
+        "s4": [
+          "Forgive yesterday.",
+          "Start small.",
+          "Begin."
+        ],
+        "s5a": "Start over fast.",
+        "s5b": "Begin gently."
+      },
+      "file": "reels/unhurried-reel-13.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-11-10",
+      "props": {
+        "s1": "Feel it.",
+        "s2": "No need to fix it yet.",
+        "s3a": "Make some room.",
+        "s3b": "Let it move.",
+        "s4": [
+          "Name the feeling.",
+          "Let it sit with you.",
+          "Allow."
+        ],
+        "s5a": "Fix it now.",
+        "s5b": "Let it be."
+      },
+      "file": "reels/unhurried-reel-14.mp4",
+      "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-11-12",
+      "props": {
+        "s1": "Be gentle.",
+        "s2": "With the day, and with you.",
+        "s3a": "Soft voice.",
+        "s3b": "Kind thoughts.",
+        "s4": [
+          "Lower your shoulders.",
+          "Soften your gaze.",
+          "Rest."
+        ],
+        "s5a": "Push through.",
+        "s5b": "Be gentle."
+      },
+      "file": "reels/unhurried-reel-15.mp4",
+      "source": "batch-2026-10-14"
+    }
+  ]
 }
