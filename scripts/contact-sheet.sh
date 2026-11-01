@@ -20,7 +20,7 @@ while read -r kind date; do
     j=0
     for t in 3.6 7.5 12.5 18.5; do
       j=$((j+1))
-      ffmpeg -y -loglevel error -ss "$t" -i "media/reels/$date.mp4" -frames:v 1 -vf scale=162:288 "$tmp/$(printf %03d $i)-r$j.jpg"
+      ffmpeg -nostdin -y -loglevel error -ss "$t" -i "media/reels/$date.mp4" -frames:v 1 -vf scale=162:288 "$tmp/$(printf %03d $i)-r$j.jpg"
     done
   fi
 done < "$tmp/list"
