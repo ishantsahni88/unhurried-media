@@ -193,6 +193,18 @@
       "date": "2026-11-20",
       "quote": "You are allowed to feel hopeful again.",
       "source": "ig-small-business-automation-theme-page week 2026-11-14"
+    },
+    {
+      "date": "2026-11-21",
+      "quote": "Tired is a message, not a flaw.",
+      "file": "media/posters/2026-11-21.jpg",
+      "source": "batch-2026-11-01"
+    },
+    {
+      "date": "2026-11-22",
+      "quote": "Even the trees take months to let go.",
+      "file": "media/posters/2026-11-22.jpg",
+      "source": "batch-2026-11-01"
     }
   ],
   "reels": [
@@ -465,6 +477,96 @@
       },
       "file": "reels/unhurried-reel-15.mp4",
       "source": "batch-2026-10-14"
+    },
+    {
+      "date": "2026-11-14",
+      "props": {
+        "s1": "Dark by five.",
+        "s2": "Let the evening come early.",
+        "s3a": "Lamp on by six.",
+        "s3b": "The day can end.",
+        "s4": [
+          "Make a warm drink.",
+          "Wrap up in a blanket.",
+          "Unwind."
+        ],
+        "s5a": "Squeeze in more.",
+        "s5b": "Call it a day."
+      },
+      "file": "media/reels/2026-11-14.mp4",
+      "source": "batch-2026-11-01"
+    },
+    {
+      "date": "2026-11-16",
+      "props": {
+        "s1": "Low battery today.",
+        "s2": "Slow is fine today.",
+        "s3a": "Do the one thing.",
+        "s3b": "Skip the rest.",
+        "s4": [
+          "Lower the bar.",
+          "Make it simple.",
+          "Ease."
+        ],
+        "s5a": "Power through.",
+        "s5b": "Power down."
+      },
+      "file": "media/reels/2026-11-16.mp4",
+      "source": "batch-2026-11-01"
+    },
+    {
+      "date": "2026-11-18",
+      "props": {
+        "s1": "Frost on the glass.",
+        "s2": "Let the morning start slow.",
+        "s3a": "Warm hands first.",
+        "s3b": "Then the day.",
+        "s4": [
+          "Hold the mug close.",
+          "Watch the steam rise.",
+          "Wake."
+        ],
+        "s5a": "Rush out the door.",
+        "s5b": "Ease into it."
+      },
+      "file": "media/reels/2026-11-18.mp4",
+      "source": "batch-2026-11-01"
+    },
+    {
+      "date": "2026-11-20",
+      "props": {
+        "s1": "Friday, finally.",
+        "s2": "Leave the work where it is.",
+        "s3a": "Close the laptop.",
+        "s3b": "Mean it.",
+        "s4": [
+          "Light a candle.",
+          "Put on soft music.",
+          "Settle."
+        ],
+        "s5a": "One more email.",
+        "s5b": "Not tonight."
+      },
+      "file": "media/reels/2026-11-20.mp4",
+      "source": "batch-2026-11-01"
+    },
+    {
+      "date": "2026-11-22",
+      "props": {
+        "s1": "Cold air, slow steps.",
+        "s2": "Nowhere to be.",
+        "s3a": "Hands in pockets.",
+        "s3b": "Breath like clouds.",
+        "s4": [
+          "Hear your footsteps.",
+          "Watch your breath.",
+          "Stroll."
+        ],
+        "s5a": "Hurry home.",
+        "s5b": "Linger outside."
+      },
+      "file": "media/reels/2026-11-22.mp4",
+      "source": "batch-2026-11-01"
     }
   ]
 }
