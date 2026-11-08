@@ -205,6 +205,48 @@
       "quote": "Even the trees take months to let go.",
       "file": "media/posters/2026-11-22.jpg",
       "source": "batch-2026-11-01"
+    },
+    {
+      "date": "2026-11-23",
+      "quote": "You don't have to be reachable tonight.",
+      "file": "media/posters/2026-11-23.jpg",
+      "source": "batch-2026-11-08"
+    },
+    {
+      "date": "2026-11-24",
+      "quote": "The first snow never hurries down.",
+      "file": "media/posters/2026-11-24.jpg",
+      "source": "batch-2026-11-08"
+    },
+    {
+      "date": "2026-11-25",
+      "quote": "A heavy week can still end softly.",
+      "file": "media/posters/2026-11-25.jpg",
+      "source": "batch-2026-11-08"
+    },
+    {
+      "date": "2026-11-26",
+      "quote": "Let your hands be empty for a while.",
+      "file": "media/posters/2026-11-26.jpg",
+      "source": "batch-2026-11-08"
+    },
+    {
+      "date": "2026-11-27",
+      "quote": "Protect the hour before sleep.",
+      "file": "media/posters/2026-11-27.jpg",
+      "source": "batch-2026-11-08"
+    },
+    {
+      "date": "2026-11-28",
+      "quote": "Bare branches still belong to the tree.",
+      "file": "media/posters/2026-11-28.jpg",
+      "source": "batch-2026-11-08"
+    },
+    {
+      "date": "2026-11-29",
+      "quote": "It's okay to leave early.",
+      "file": "media/posters/2026-11-29.jpg",
+      "source": "batch-2026-11-08"
     }
   ],
   "reels": [
@@ -567,6 +609,60 @@
       },
       "file": "media/reels/2026-11-22.mp4",
       "source": "batch-2026-11-01"
+    },
+    {
+      "date": "2026-11-24",
+      "props": {
+        "s1": "Plans every night?",
+        "s2": "Tonight is yours.",
+        "s3a": "Clear the calendar.",
+        "s3b": "Start with Tuesday.",
+        "s4": [
+          "Cancel what you can.",
+          "Stay in on purpose.",
+          "Protect."
+        ],
+        "s5a": "Say yes again.",
+        "s5b": "Keep the night."
+      },
+      "file": "media/reels/2026-11-24.mp4",
+      "source": "batch-2026-11-08"
+    },
+    {
+      "date": "2026-11-26",
+      "props": {
+        "s1": "Morning, unplugged.",
+        "s2": "Give the morning to yourself.",
+        "s3a": "Open the curtains.",
+        "s3b": "Let the day in.",
+        "s4": [
+          "Make the coffee slow.",
+          "Sit by the window.",
+          "Notice."
+        ],
+        "s5a": "Wake to alerts.",
+        "s5b": "Wake to light."
+      },
+      "file": "media/reels/2026-11-26.mp4",
+      "source": "batch-2026-11-08"
+    },
+    {
+      "date": "2026-11-28",
+      "props": {
+        "s1": "Long week, done.",
+        "s2": "Today asks nothing of you.",
+        "s3a": "Sleep in a little.",
+        "s3b": "Eat a warm meal.",
+        "s4": [
+          "Leave the laundry.",
+          "Let the dishes sit.",
+          "Recover."
+        ],
+        "s5a": "Catch up.",
+        "s5b": "Rest up."
+      },
+      "file": "media/reels/2026-11-28.mp4",
+      "source": "batch-2026-11-08"
     }
   ]
 }
